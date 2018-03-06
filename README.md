@@ -1,5 +1,5 @@
-# opencart-russia-language-2x
-Русский язык для Opencart 2x Русская сборка  
+# opencart-russia-language-3x
+Русский язык для Opencart 3x Русская сборка  
 http://opencart-russia.ru
 
 ВНИМАНИЕ! 
