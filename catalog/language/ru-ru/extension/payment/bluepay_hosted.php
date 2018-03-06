@@ -1,0 +1,25 @@
+<?php
+$_['text_title'] = 'Credit Card / Debit Card (BluePay)'; //TODO
+$_['text_credit_card'] = 'Card Details'; //TODO
+$_['text_description'] = 'Items on %s Order No: %s'; //TODO
+$_['text_card_type'] = 'Card Type: '; //TODO
+$_['text_card_name'] = 'Card Name: '; //TODO
+$_['text_card_digits'] = 'Last Digits: '; //TODO
+$_['text_card_expiry'] = 'Expiry: '; //TODO
+$_['text_transaction_error'] = 'There was an error processing your transaction - '; //TODO
+$_['entry_card'] = 'New or Existing Card: '; //TODO
+$_['entry_card_existing'] = 'Existing'; //TODO
+$_['entry_card_new'] = 'New'; //TODO
+$_['entry_card_save'] = 'Remember Card Details'; //TODO
+$_['entry_cc_owner'] = 'Card Owner'; //TODO
+$_['entry_cc_number'] = 'Номер карты:';
+$_['entry_cc_start_date'] = 'Дата начала срока действия карты:';
+$_['entry_cc_expire_date'] = 'Дата окончания срока действия карты:';
+$_['entry_cc_cvv2'] = 'Код безопасности (CVV2):';
+$_['entry_cc_address'] = 'Street Address'; //TODO
+$_['entry_cc_city'] = 'Город';
+$_['entry_cc_state'] = 'State'; //TODO
+$_['entry_cc_zipcode'] = 'Zipcode'; //TODO
+$_['entry_cc_phone'] = 'Phone'; //TODO
+$_['entry_cc_email'] = 'Email';
+$_['entry_cc_choice'] = 'Choose an Existing Card'; //TODO

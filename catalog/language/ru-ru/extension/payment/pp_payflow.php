@@ -1,0 +1,19 @@
+<?php
+$_['text_title'] = 'Карты Visa и MasterCard (PayPal)';
+$_['text_credit_card'] = 'Информация платежной карты';
+$_['text_start_date'] = '(если известно)';
+$_['text_issue'] = '(только для Maestro и Solo карт)';
+$_['text_wait'] = 'Пожалуйста, подождите!';
+$_['entry_cc_owner'] = 'Card Owner:'; //TODO
+$_['entry_cc_type'] = 'Card Type:'; //TODO
+$_['entry_cc_number'] = 'Card Number:'; //TODO
+$_['entry_cc_start_date'] = 'Card Valid From Date:'; //TODO
+$_['entry_cc_expire_date'] = 'Card Expiry Date:'; //TODO
+$_['entry_cc_cvv2'] = 'Card Security Code (CVV2):'; //TODO
+$_['entry_cc_issue'] = 'Card Issue Number:'; //TODO
+$_['error_required'] = 'Warning: All payment information fields are required.'; //TODO
+$_['error_general'] = 'Warning: A general problem has occurred with the transaction. Please try again.'; //TODO
+$_['error_config'] = 'Warning: Payment module configuration error. Please verify the login credentials.'; //TODO
+$_['error_address'] = 'Warning: A match of the Payment Address City, State, and Postal Code failed. Please try again.'; //TODO
+$_['error_declined'] = 'Warning: This transaction has been declined. Please try again.'; //TODO
+$_['error_invalid'] = 'Warning: The provided credit card information is invalid. Please try again.'; //TODO

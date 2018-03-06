@@ -1,0 +1,22 @@
+<?php
+$_['heading_title'] = 'Краткое описание';
+$_['text_openbay'] = 'OpenBay Pro';
+$_['text_ebay'] = 'eBay';
+$_['text_use_desc'] = 'This is your eBay account summary page. It is a quick snapshot of any limits on your account along with your DSR selling performance.'; //TODO
+$_['text_ebay_limit_head'] = 'Your eBay account has selling limits!'; //TODO
+$_['text_ebay_limit_t1'] = 'You can sell'; //TODO
+$_['text_ebay_limit_t2'] = 'more items (this is the total amount of items, not individual listings) to the value of'; //TODO
+$_['text_ebay_limit_t3'] = 'When you try to create new listings, it will fail if you exceed the amounts above.'; //TODO
+$_['text_as_described'] = 'Item as described'; //TODO
+$_['text_communication'] = 'Communication'; //TODO
+$_['text_shippingtime'] = 'Shipping time'; //TODO
+$_['text_shipping_charge'] = 'Shipping charges'; //TODO
+$_['text_score'] = 'Score'; //TODO
+$_['text_count'] = 'Count'; //TODO
+$_['text_report_30'] = '30 days'; //TODO
+$_['text_report_52'] = '52 weeks'; //TODO
+$_['text_title_dsr'] = 'DSR reports'; //TODO
+$_['text_failed'] = 'Failed to load'; //TODO
+$_['text_summary'] = 'View your eBay summary'; //TODO
+$_['error_validation'] = 'You need to register for your API token and enable the module.'; //TODO
+$_['error_ajax_load'] = 'Sorry, connection to the server failed'; //TODO

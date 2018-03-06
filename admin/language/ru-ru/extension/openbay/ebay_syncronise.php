@@ -1,0 +1,19 @@
+<?php
+$_['heading_title'] = 'Synchronise'; //TODO
+$_['text_openbay'] = 'OpenBay Pro';
+$_['text_ebay'] = 'eBay';
+$_['button_update'] = 'Обновить';
+$_['entry_sync_categories'] = 'Get eBay categories'; //TODO
+$_['entry_sync_shop'] = 'Get shop categories'; //TODO
+$_['entry_sync_setting'] = 'Get settings'; //TODO
+$_['text_complete'] = 'Завершено';
+$_['text_sync_desc'] = 'Sync your store with the latest available shipping and categories options from eBay, this data is only for the options when listing an item to eBay - it will not import categories to your store etc.'; //TODO
+$_['text_ebay_categories'] = 'This may take a while, wait 5 minutes before you do anything else.'; //TODO
+$_['text_category_import'] = 'Your eBay shop categories have been imported.'; //TODO
+$_['text_setting_import'] = 'Your settings have been imported.'; //TODO
+$_['text_sync'] = 'Update settings from eBay'; //TODO
+$_['help_sync_categories'] = 'This does not import any categories to your store!'; //TODO
+$_['help_sync_shop'] = 'This does not import any categories to your store!'; //TODO
+$_['help_sync_setting'] = 'This imports available payment types, shipping, locations and more.'; //TODO
+$_['error_settings'] = 'There was an error loading the settings.'; //TODO
+$_['error_failed'] = 'Failed to load'; //TODO
